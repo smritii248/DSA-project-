@@ -36,7 +36,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/dsa-visualizer.git
+   git clone https://github.com/smritii248/DSA-project-.git
    cd dsa-visualizer
    ```
 2. **Install Dependencies**:
