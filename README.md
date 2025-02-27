@@ -54,11 +54,6 @@ VITE_GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
    npm start  # or yarn start
    ```
 
-## 📷 Screenshots
-
-_(Add images or GIFs showcasing the project features.)_
-
-## 📚 Usage
 
 1. Login using Google.
 2. Select a sorting or traversal algorithm.
@@ -70,6 +65,5 @@ _(Add images or GIFs showcasing the project features.)_
 
 This project is licensed under the MIT License.
 
----
 
-Developed with ❤️ by Your Smriti
+
